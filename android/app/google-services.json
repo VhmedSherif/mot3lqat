@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323552489384",
+    "project_id": "mot3lqat-mbc33",
+    "storage_bucket": "mot3lqat-mbc33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323552489384:android:9b6bbfa7e25db34357f79d",
+        "android_client_info": {
+          "package_name": "com.example.mot3lqat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl55ZBoXsDkMgCgi3rkLN34_lpy0L9Ecc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
